@@ -1,0 +1,12 @@
+---
+title: Test Post 2
+date: 2017-11-10 22:31:00 Z
+layout: post
+---
+
+**dfdfdfdf**
+
+* fgfg0
+* gfgfgf
+
+![photo-1470341223622-1019832be824.jpg](/uploads/photo-1470341223622-1019832be824.jpg)
